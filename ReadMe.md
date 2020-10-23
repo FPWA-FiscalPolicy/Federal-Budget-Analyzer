@@ -27,15 +27,15 @@ FPWA members can use this worksheet to visualize the current federal grants that
 											
 											
 ### Footnotes											
-1. Suggested citation: FPWA analysis											
-2. Watch FPWA’s Federal Funds Tracker for forthcoming updates that include the addition of the remaining NYC human services agencies.											
-3. Visit FPWA's Tableau page for in-depth analysis of the impact of federal budget proposals on these agencies' budgets (https://public.tableau.com/profile/fpwa#!/)								
+1. Suggested citation: FPWA analysis</br>									
+2. Watch FPWA’s Federal Funds Tracker for forthcoming updates that include the addition of the remaining NYC human services agencies.</br>									
+3. Visit FPWA's Tableau page for in-depth analysis of the impact of federal budget proposals on these agencies' budgets (https://public.tableau.com/profile/fpwa#!/)</br>								
 4. Because member' audits run a year behind, this analysis examines FFY 21 proposals on a member’s FY 19 federal grants. Analysis assumes cut to these grants would be evenly distributed across organizations											
 											
 #### Additional Resources											
-Learn more about the federal budget process  (https://federalfundstracker.org/federal-budget-basics/)									
+Learn more about the federal budget process  (https://federalfundstracker.org/federal-budget-basics/)</br>								
 Explore additional 'Open Data' tools and learn more about our methodology (https://federalfundstracker.org/open-data/)									
 											
 ##### Contact Info											
-Derek Thomas, Senior Fiscal Policy Analyst @ FPWA....(dthomas@fpwa.org)									
+Derek Thomas, Senior Fiscal Policy Analyst @ FPWA....(dthomas@fpwa.org)</br>								
 Gaurav Gupta-Casale, Fiscal Policy Analyst @ FPWA....(ggupta-casale@fpwa.org)									
