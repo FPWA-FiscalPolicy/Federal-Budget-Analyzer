@@ -2,7 +2,7 @@
 #
 Instructions for FPWA Federal Budget Analyzer	
 
-**You will need to enable Macros in order to use the Federal Budget Analyzer**											
+**You will need to enable Macros in order to use the Federal Budget Analyzer**</br>										
  *If having difficulty, visit here for support*: (https://support.microsoft.com/en-us/office/enable-or-disable-macros-in-office-files-12b036fd-d140-4e74-b45e-16fed1a7e5c6)										
 1. FPWA nonprofit human service providing members and advocates in general can use the 'Federal Budget Analyzer' to easily visualize the impact of federal budget proposals on NYC's human services grants and sector											
 * The federal budget analyzer is updated during each iteration of the federal budget process to reflect the latest proposals (e.g., POTUS, House, Senate)		
