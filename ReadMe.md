@@ -14,7 +14,7 @@ Instructions for FPWA Federal Budget Analyzer
 3. These 39 grants support the Department for the Aging (DFTA), the Department for Youth and Community Development (DYCD), the Department of Social Services (DSS), and  the Administration for Children’s Services (ACS)											
 											
 ### Member Grants - Summary											
-Many FPWA nonprofit human service providing members rely on a combination of city, state, and federal revenue to support their missions. 					4. FPWA members can use this worksheet to visualize the impact of current federal budget proposals on their organizations						
+Many FPWA nonprofit human service providing members rely on a combination of city, state, and federal revenue to support their missions.</br> 					4. FPWA members can use this worksheet to visualize the impact of current federal budget proposals on their organizations						
 * This analysis includes the impact on a members' individual grants and overall federal funding											
 											
 ### Member Charts - Percent Cuts											
@@ -37,5 +37,5 @@ Learn more about the federal budget process  (https://federalfundstracker.org/fe
 Explore additional 'Open Data' tools and learn more about our methodology (https://federalfundstracker.org/open-data/)									
 											
 ##### Contact Info											
-Derek Thomas, Senior Fiscal Policy Analyst @ FPWA		(dthomas@fpwa.org)									
-Gaurav Gupta-Casale, Fiscal Policy Analyst @ FPWA		(ggupta-casale@fpwa.org)									
+Derek Thomas, Senior Fiscal Policy Analyst @ FPWA....(dthomas@fpwa.org)									
+Gaurav Gupta-Casale, Fiscal Policy Analyst @ FPWA....(ggupta-casale@fpwa.org)									
