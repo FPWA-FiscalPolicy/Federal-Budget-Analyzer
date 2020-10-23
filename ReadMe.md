@@ -14,13 +14,11 @@ Instructions for FPWA Federal Budget Analyzer
 3. These 39 grants support the Department for the Aging (DFTA), the Department for Youth and Community Development (DYCD), the Department of Social Services (DSS), and  the Administration for Children’s Services (ACS)											
 											
 ### Member Grants - Summary											
-Many FPWA nonprofit human service providing members rely on a combination of city, state, and federal revenue to support their missions. 											
-4. FPWA members can use this worksheet to visualize the impact of current federal budget proposals on their organizations						
+Many FPWA nonprofit human service providing members rely on a combination of city, state, and federal revenue to support their missions. 					4. FPWA members can use this worksheet to visualize the impact of current federal budget proposals on their organizations						
 * This analysis includes the impact on a members' individual grants and overall federal funding											
 											
 ### Member Charts - Percent Cuts											
-FPWA members can use this worksheet to visualize the percent changes to the selected organization's federal grants											
-											
+FPWA members can use this worksheet to visualize the percent changes to the selected organization's federal grants																						
 ### Member Charts - Dollar Cuts											
 FPWA members can use this worksheet to visualize the dollar changes to the selected organization's federal grants											
 											
@@ -29,15 +27,15 @@ FPWA members can use this worksheet to visualize the current federal grants that
 											
 											
 ### Footnotes											
-(1) Suggested citation: FPWA analysis											
-(2) Watch FPWA’s Federal Funds Tracker for forthcoming updates that include the addition of the remaining NYC human services agencies.											
-(3) Visit FPWA's Tableau page for in-depth analysis of the impact of federal budget proposals on these agencies' budgets (https://public.tableau.com/profile/fpwa#!/)								
-(4) Because member' audits run a year behind, this analysis examines FFY 21 proposals on a member’s FY 19 federal grants. Analysis assumes cut to these grants would be evenly distributed across organizations											
+1. Suggested citation: FPWA analysis											
+2. Watch FPWA’s Federal Funds Tracker for forthcoming updates that include the addition of the remaining NYC human services agencies.											
+3. Visit FPWA's Tableau page for in-depth analysis of the impact of federal budget proposals on these agencies' budgets (https://public.tableau.com/profile/fpwa#!/)								
+4. Because member' audits run a year behind, this analysis examines FFY 21 proposals on a member’s FY 19 federal grants. Analysis assumes cut to these grants would be evenly distributed across organizations											
 											
-##Additional Resources											
+#### Additional Resources											
 Learn more about the federal budget process  (https://federalfundstracker.org/federal-budget-basics/)									
 Explore additional 'Open Data' tools and learn more about our methodology (https://federalfundstracker.org/open-data/)									
 											
-##Contact Info											
+##### Contact Info											
 Derek Thomas, Senior Fiscal Policy Analyst @ FPWA		(dthomas@fpwa.org)									
 Gaurav Gupta-Casale, Fiscal Policy Analyst @ FPWA		(ggupta-casale@fpwa.org)									
