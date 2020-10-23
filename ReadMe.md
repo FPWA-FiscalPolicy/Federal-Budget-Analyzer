@@ -1,6 +1,5 @@
-# FederalFundsTracker
-#
-Instructions for FPWA Federal Budget Analyzer	
+# Federal Funds Tracker
+## Instructions for FPWA Federal Budget Analyzer	
 
 **You will need to enable Macros in order to use the Federal Budget Analyzer**</br>										
  *If having difficulty, visit here for support*: (https://support.microsoft.com/en-us/office/enable-or-disable-macros-in-office-files-12b036fd-d140-4e74-b45e-16fed1a7e5c6)										
@@ -36,6 +35,6 @@ FPWA members can use this worksheet to visualize the current federal grants that
 Learn more about the federal budget process  (https://federalfundstracker.org/federal-budget-basics/)</br>								
 Explore additional 'Open Data' tools and learn more about our methodology (https://federalfundstracker.org/open-data/)									
 											
-##### Contact Info											
+#### Contact Info											
 Derek Thomas, Senior Fiscal Policy Analyst @ FPWA....(dthomas@fpwa.org)</br>								
 Gaurav Gupta-Casale, Fiscal Policy Analyst @ FPWA....(ggupta-casale@fpwa.org)									
