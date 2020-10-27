@@ -12,8 +12,9 @@
 * This tab features the 39 federal human services grants currently included in FPWA's Federal Funds Tracker, and which 78 percent of all social services funding to the City in FY 2020											
 3. These 39 grants support the Department for the Aging (DFTA), the Department for Youth and Community Development (DYCD), the Department of Social Services (DSS), and the Administration for Children’s Services (ACS)</br>											
 											
-### 4. Member Grants - Summary											
-* Many FPWA nonprofit human service providing members rely on a combination of city, state, and federal revenue to support their missions.</br> 				5. FPWA members can use this worksheet to visualize the impact of current federal budget proposals on their organizations</br>					
+4. Member Grants - Summary											
+* Many FPWA nonprofit human service providing members rely on a combination of city, state, and federal revenue to support their missions.
+5. FPWA members can use this worksheet to visualize the impact of current federal budget proposals on their organizations</br>					
 * This analysis includes the impact on a members' individual grants and overall federal funding											
 											
 ### Member Charts - Percent Cuts											
